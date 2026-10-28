@@ -1,0 +1,7 @@
+(design_block_lib_table
+  (version 7)
+  (lib (name "espressif.3dshapes")(type "KiCad")(uri "C:/Users/User/Desktop/3D de elementos/3dmodels/espressif.3dshapes")(options "")(descr ""))
+  (lib (name "3dmodels_2")(type "KiCad")(uri "C:/Users/User/Desktop/3D de elementos/3dmodels_2")(options "")(descr ""))
+  (lib (name "EESTN5.3dshapes")(type "KiCad")(uri "C:/Users/User/Desktop/3D de elementos/EESTN5.3dshapes")(options "")(descr ""))
+  (lib (name "Modelos 3D")(type "KiCad")(uri "C:/Users/User/Estacion-metereologica/Modelos 3D")(options "")(descr ""))
+)
